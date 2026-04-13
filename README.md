@@ -29,7 +29,7 @@ A network scanner for online machines is a tool used to discover devices hosts c
 
 1. Command-Line Interface (CLI)
 
- -The tool operates via a CLI, allowing users to provide inputs and receive results efficiently.
+    -The tool operates via a CLI, allowing users to provide inputs and receive results efficiently.
 
 2 Network Detection
 
@@ -79,9 +79,16 @@ A network scanner for online machines is a tool used to discover devices hosts c
      8.  os → OS-related utilities
 
 
+
+## **▶️ How Run:-**
+
+         python netscan.py
+
+
+
 ## **📊 Sample Output:-**
 
-  ####    python netscan.py 192.168.1
+  ####   python netscan.py 192.168.1
 
     Scanning network: 192.168.1.0/24
 
